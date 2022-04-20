@@ -25,7 +25,7 @@ You can then access petclinic here: http://localhost:8080/
 docker build -f Dockerfile . -t apple-spring-pet-clinic
 docker run -p 8052:8080 apple-spring-pet-clinic
 ```
-You can then access petclinic here: http://localhost:8080/
+You can then access petclinic here: http://localhost:8052
 
 
 ## Database configuration
